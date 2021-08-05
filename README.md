@@ -12,7 +12,7 @@
 
  Bilibili | Luogu | Email | Other Accounts
  --- | --- | --- | ---
- ~[DELTA-ZNKZZ](https://space.bilibili.com/94781005)~ </br>  ~[废蝉P](https://space.bilibili.com/348801677)~ </br> [Acuply](https://space.bilibili.com/1106804482) | [elatii](https://elatii.blog.luogu.org) | vzpui7@gmail.com </br>  hissit@qq.com *(frequently)* | ~[AlphaAl2O3](https://github.com/AlphaAl2O3)~ </br> [AlfaAl2O3](https://github.com/AlfaAl2O3)
+ ~[DELTA-ZNKZZ](https://space.bilibili.com/94781005)~ </br>  ~[废蝉P](https://space.bilibili.com/348801677)~ </br> [Acuply](https://space.bilibili.com/1106804482) | [elatii](https://elatii.blog.luogu.org) | vzpui7@gmail.com *(missing?)* </br>  hissit@qq.com *(frequently)* | ~[AlphaAl2O3](https://github.com/AlphaAl2O3)~ </br> [AlfaAl2O3](https://github.com/AlfaAl2O3)
 
 My spirit is affected by the ***"black tuna incident"***
 
