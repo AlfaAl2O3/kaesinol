@@ -9,8 +9,14 @@
 <details>
 <summary>More</summary>
 
-- I’m currently working on dust-lang
-- I’m currently learning freebasic,python,c#,c/c++ and haskell
+
+- I’m currently learning 
+ ![](https://img.shields.io/badge/Haskell-8.6.5-blue)
+ ![](https://img.shields.io/badge/Python-3.x-yellow)
+ ![](https://img.shields.io/badge/FreeBASIC-1.x-brightgreen)
+ ![](https://img.shields.io/badge/-Shell-black)
+ ![](https://img.shields.io/badge/-C/C++-red)
+ ![](https://img.shields.io/badge/C%23-0B9E0B)
 - How to reach me: 
 
  Bilibili | Luogu | Email | Other Accounts
