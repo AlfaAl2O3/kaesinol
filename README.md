@@ -6,6 +6,8 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaesinol&hide=issues,contribs&custom_title=Github%E7%BB%9F%E8%AE%A1&hide_border=true&show_icons=true&title_color=DB5A6B&text_color=F48983&icon_color=424C50&locale=en&count_private=true)](https://github.com/kaesinol)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaesinol&layout=compact&custom_title=编程语言使用&hide_border=true&langs_count=6&title_color=DB5A6B)](https://github.com/kaesinol)
+
+![](https://komarev.com/ghpvc/?username=kaesinol&color=yellowgreen)
 <details>
 <summary>More</summary>
 
