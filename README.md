@@ -19,7 +19,7 @@
  ![](https://img.shields.io/badge/-Shell-black)
  ![](https://img.shields.io/badge/-C/C++-red)
  ![](https://img.shields.io/badge/C%23-0B9E0B)
-- How to reach me: 
+**Reach me:** 
 
  Bilibili | Luogu | Email | Other Accounts
  --- | --- | --- | ---
